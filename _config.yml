@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew McNeil (Test)"
+title                    : "Andrew McNeil MPhys MSc AMInstP"
 title_separator          : "-"
 name                     : &name "Andrew McNeil"
 description              : &description "Research scientist in medical image analysis"
