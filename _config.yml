@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew McNeil MPhys MSc AMInstP"
+title                    : "Andrew McNeil"
 title_separator          : "-"
-name                     : &name "Andrew McNeil"
+name                     : &name "Andrew McNeil MPhys MSc AMInstP"
 description              : &description "Research scientist in medical image analysis"
 url                      : https://xythen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
